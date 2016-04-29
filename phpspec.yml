@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: BookStack
+        psr4_prefix: BookStack
+        src_path: app
